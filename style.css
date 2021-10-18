@@ -17,7 +17,7 @@ body {
 }
 
 header {
-  background-image: url(./images/image-hero-desktop.jpg);
+  background-image: url(image-hero-desktop.jpg);
   width: 1270px;
   height: 23rem;
   background-repeat: no-repeat;
@@ -449,7 +449,7 @@ input[type='text']::placeholder {
     flex-direction: column;
   }
   header {
-    background-image: url(./images/image-hero-mobile.jpg);
+    background-image: url(image-hero-mobile.jpg);
     width: 375px;
     height: 800px;
   }
